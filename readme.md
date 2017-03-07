@@ -1,5 +1,6 @@
 # Unity Configurator
-Plugin Unity in order to configure unity application with android native application
+Plugin Unity in order to configure unity application with android native application.  
+For more explication please visit our blog [link](http://blog.3ie.fr/communication-entre-une-application-unity-et-une-application-native)
 
 # Building sample
 ## Android
